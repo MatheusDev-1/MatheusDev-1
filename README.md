@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matheusdev-1)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matheusdev-1&show_icons=true&theme=dracula&count_private=true)
 
 <!--
 **MatheusDev-1/MatheusDev-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
