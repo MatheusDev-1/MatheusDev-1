@@ -1,7 +1,7 @@
 
 <img src="header.jpg" alt="drawing" height="250" width="1000"/>
 
-Me chamo Matheus, tenho 24 e sou apaixonado pela área de desenvolvimento, principalmente a parte de frontend.
+✨ Me chamo Matheus, tenho 24 e sou apaixonado pela área de desenvolvimento, principalmente a parte de frontend.
 
 💻 Atualmente trabalho como Analista de Sustentação e estou investindo para que possa alcançar minha carreira como dev. Estou investindo em cursos e bootcamps (como o GoStack da Rocketseat) e também em projetos pessoais para incrementar meu portfólio e demonstrar minha experiência através deste.
 
