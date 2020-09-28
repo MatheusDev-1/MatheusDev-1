@@ -1,5 +1,5 @@
 
-<img src="header.jpg" alt="drawing" width="500"/>
+<img src="header.jpg" alt="drawing" width="1000"/>
 
 Me chamo Matheus, tenho 24 e sou apaixonado pela área de desenvolvimento, principalmente a parte de frontend.
 
