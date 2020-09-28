@@ -35,7 +35,4 @@
    <a href="https://twitter.com/Mdahora">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">
   </a>
-  <a href="mailto:matheus.mdahora@gmail.com">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:4px">
-  </a>
 </p>
