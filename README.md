@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/dockerhub.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
 </p>
 
 <p align="center" >
@@ -30,12 +30,12 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/matheus-oliveira-da-hora-50b3598a/">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
   </a>
    <a href="https://twitter.com/Mdahora">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">
   </a>
   <a href="mailto:matheus.mdahora@gmail.com">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/email_me.svg" alt="email_me" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:4px">
   </a>
 </p>
