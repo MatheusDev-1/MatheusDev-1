@@ -22,17 +22,12 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
 </p>
 
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=matheusdev-1&show_icons=true&theme=dracula&count_private=true"/>
-</a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdev-1&show_icons=true&theme=dracula&count_private=true)
+  
+![Wakatime MatheusDev-1](https://github-readme-stats.vercel.app/api/wakatime?username=matheusdev1)]
 
 <p align="left">
   <a href="https://www.linkedin.com/in/matheus-oliveira-da-hora-50b3598a/">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
-  </a>
-   <a href="https://twitter.com/Mdahora">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">
   </a>
 </p>
