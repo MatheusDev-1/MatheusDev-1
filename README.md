@@ -9,6 +9,8 @@
 
 🎼 Meu maior hobby é a música! Atualmente toco violão, guitarra, piano, gaita e arranho um pouquinho no violino.
 
+💡 Também gosto fazer projetos com Arduino e tenho estudado muito eletrônica ultimamente.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
