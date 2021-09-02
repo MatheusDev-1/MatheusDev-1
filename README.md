@@ -23,7 +23,9 @@
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdev-1&show_icons=true&theme=dracula&count_private=true)
-  
+
+<br/>  
+
 <p align="left">
   <a href="https://www.linkedin.com/in/matheus-oliveira-da-hora-50b3598a/">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
