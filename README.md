@@ -3,11 +3,11 @@
 
 ✨ Me chamo Matheus, tenho 25 anos e sou apaixonado pela área de desenvolvimento, principalmente frontend.
 
-💻 Atualmente trabalho como desenvolvedor fullstack na Allugator e estou constantemente investindo em minha carreira como dev, tanto em cursos e/ou bootcamps (como o GoStack e Ignite da Rocketseat) e também em projetos pessoais para incrementar meu portfólio e demonstrar minha experiência através destes.
+💻 Atualmente trabalho como desenvolvedor na Ernest & Young (EY) e estou constantemente investindo em minha carreira como dev, tanto em cursos e bootcamps (como o GoStack e Ignite da Rocketseat). Também tenho trabalhado em projetos pessoais para incrementar meu portfólio e demonstrar minha experiência através destes.
 
 🌎 Sou fluente em inglês e não tenho dificuldades na comunicação/leitura/escrita. Muito do que aprendi sobre programação no geral foram com materiais em inglês.
 
-🎼 Meu maior hobby é a música! Atualmente toco violão, guitarra, piano, gaita e arranho um pouquinho no violino. Também gosto de jogar alguns jogos nos finais de semana e me divertir para descansar um pouco a mente.
+🎼 Meu maior hobby é a música! Atualmente toco violão, guitarra, piano, gaita e arranho um pouquinho no violino.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
