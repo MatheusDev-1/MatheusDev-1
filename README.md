@@ -3,13 +3,13 @@
 
 ✨ Me chamo Matheus, tenho 25 anos e sou apaixonado pela área de desenvolvimento, principalmente frontend.
 
-💻 Atualmente trabalho como desenvolvedor na Ernest & Young (EY) e estou constantemente investindo em minha carreira como dev, tanto em cursos e bootcamps (como o GoStack e Ignite da Rocketseat). Também tenho trabalhado em projetos pessoais para incrementar meu portfólio e demonstrar minha experiência através destes.
+💻 Atualmente trabalho como desenvolvedor na Guiavet (MatheusDev-2 / matheus-hora-guiavet) e estou constantemente investindo em minha carreira como dev, tanto em cursos e bootcamps (como o GoStack e Ignite da Rocketseat). Também tenho trabalhado eventualmente como freelancer e tenho feito alguns projetos pessoais para incrementar meu portfólio.
 
 🌎 Sou fluente em inglês e não tenho dificuldades na comunicação/leitura/escrita. Muito do que aprendi sobre programação no geral foram com materiais em inglês.
 
 🎼 Meu maior hobby é a música! Atualmente toco violão, guitarra, piano, gaita e arranho um pouquinho no violino.
 
-💡 Também gosto fazer projetos com Arduino e tenho estudado muito eletrônica ultimamente.
+💡 Também gosto muito de eletrônica e faço alguns projetos pequenos.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
@@ -27,9 +27,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdev-1&show_icons=true&theme=dracula&count_private=true)
 
 <br/>  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/matheus-oliveira-da-hora-50b3598a/">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
-  </a>
-</p>
