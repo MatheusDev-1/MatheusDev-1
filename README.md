@@ -1,13 +1,9 @@
 
 <img src="header2.jpg" alt="drawing" height="250" width="1000"/>
 
-✨ Me chamo Matheus, tenho 25 anos e sou apaixonado pela área de desenvolvimento, principalmente frontend.
-
-💻 Atualmente trabalho como desenvolvedor na Guiavet (MatheusDev-2 / matheus-hora-guiavet) e estou constantemente investindo em minha carreira como dev, tanto em cursos e bootcamps (como o GoStack e Ignite da Rocketseat). Também tenho trabalhado eventualmente como freelancer e tenho feito alguns projetos pessoais para incrementar meu portfólio.
+✨ Me chamo Matheus, tenho 30 anos e sou apaixonado pela área de desenvolvimento, principalmente backend.
 
 🌎 Sou fluente em inglês e não tenho dificuldades na comunicação/leitura/escrita. Muito do que aprendi sobre programação no geral foram com materiais em inglês.
-
-🎼 Meu maior hobby é a música! Atualmente toco violão, guitarra, piano, gaita e arranho um pouquinho no violino.
 
 💡 Também gosto muito de eletrônica e faço alguns projetos pequenos.
 
